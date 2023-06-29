@@ -17,6 +17,7 @@
 
 One of the benefits of developing data science projects in the cloud is the smooth transition from prototype to production. We can switch from running model prototyping code in our notebook to running data-quality checks or distributed model training across petabytes of data within minutes. And once we are done, we can deploy our trained models to serve real-time or batch predictions for millions of users across the globe.
 ![11](https://github.com/andysingal/Data-Engineering-AWS/blob/main/Images/Screenshot%202023-06-13%20at%2011.59.30%20AM.png)
+![12](https://github.com/andysingal/Data-Engineering-AWS/blob/main/Images/Screenshot%202023-06-29%20at%202.12.14%20PM.png)
 
 <h2> Amazon SageMaker Pipelines</h2>
 Amazon SageMaker Pipelines are the standard, full-featured, and most complete way to implement AI and machine learning pipelines on Amazon SageMaker. SageMaker Pipelines have integration with SageMaker Feature Store, SageMaker Data Wrangler, SageMaker Processing Jobs, SageMaker Training Jobs, SageMaker Hyper-Parameter Tuning Jobs, SageMaker Model Registry, SageMaker Batch Transform, and SageMaker Model Endpoints.
