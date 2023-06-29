@@ -14,6 +14,10 @@
 | ---------------------- |
 | 1. [**Python-Postgres-Integration**](https://github.com/andysingal/postgres_python)|
 
+References:
+- https://www.linkedin.com/pulse/build-etl-pipeline-using-aws-s3-glue-athena-data-wrangler-tom-reid/
+  
+
 
 One of the benefits of developing data science projects in the cloud is the smooth transition from prototype to production. We can switch from running model prototyping code in our notebook to running data-quality checks or distributed model training across petabytes of data within minutes. And once we are done, we can deploy our trained models to serve real-time or batch predictions for millions of users across the globe.
 ![11](https://github.com/andysingal/Data-Engineering-AWS/blob/main/Images/Screenshot%202023-06-13%20at%2011.59.30%20AM.png)
